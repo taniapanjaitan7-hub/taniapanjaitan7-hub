@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Tania Mutiara Panjaitan 👋
 
-<!--
-**taniapanjaitan7-hub/taniapanjaitan7-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student  
+💻 Interested in Web Development  
+🌱 Currently learning Laravel, PHP, Database, and Git  
+🚀 Currently building **Tania Mutiara Laundry**
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Laravel
+- PHP
+- HTML
+- CSS
+- JavaScript
+- SQLite
+- Git
+- GitHub
+
+## 🚀 Current Project
+
+### Tania Mutiara Laundry
+
+A web-based laundry management system built with Laravel.
+
+Features:
+- Customer Management
+- Laundry Services
+- Transactions
+- Payment Management
+- Laundry Status Tracking
+- Reports
+
+## 📫 Connect With Me
+
+💼 LinkedIn: Tania Mutiara Panjaitan  
+📧 Email: taniapanjaitan7@gmail.com
